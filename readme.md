@@ -3,6 +3,7 @@
 #### **1. Introduction**  
 
 The objective of this project was to enhance a dataset of employee queries to improve the performance of a chatbot. 
+
 The original dataset found in [Huagging Face]("https://huggingface.co/datasets/nirmitsinghhh/raw_data_eng_helpdesk-llama2-1k")
 consisted of **1,022 rows** with three columns: `user_query`, `intent`, and `solution`.
 
