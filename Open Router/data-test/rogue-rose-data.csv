@@ -1,0 +1,31 @@
+user_query,intent,solution
+What is the procedure for resetting my password?,reset_password,Please follow the steps in the password reset link sent to your email.
+How can I reset my password if I forget it?,reset_password,Please follow the steps in the password reset link sent to your email.
+Can you please walk me through the password reset process?,reset_password,Please follow the steps in the password reset link sent to your email.
+What steps should I take to reset my password on my own?,reset_password,Please follow the steps in the password reset link sent to your email.
+Is there a password reset feature I can use to change my password?,reset_password,Please follow the steps in the password reset link sent to your email.
+What is the process to follow if I need to reset my password?,reset_password,Please follow the steps in the password reset link sent to your email.
+How can I go about resetting my password if I've forgotten it?,reset_password,Please follow the steps in the password reset link sent to your email.
+Can you provide me with the steps to reset my password on this platform?,reset_password,Please follow the steps in the password reset link sent to your email.
+"If I'm unable to log in, how do I initiate a password reset request?",reset_password,Please follow the steps in the password reset link sent to your email.
+"What are the steps I should take to reset my password through the ""Forgot Password"" feature?",reset_password,Please follow the steps in the password reset link sent to your email.
+"I can't seem to log in, and I think I may have forgotten my password. How can I go about resetting it?",reset_password,A password reset link has been sent to your email. Follow the instructions.
+"I'm having trouble logging in, and I believe I might have forgotten my password. Can you please walk me through the process of resetting it?",reset_password,A password reset link has been sent to your email. Follow the instructions.
+"I can't seem to remember my password, and I'm unable to log in. Could you guide me on how to reset my password so I can access my account again?",reset_password,A password reset link has been sent to your email. Follow the instructions.
+"I'm having issues logging in, and I think I may have forgotten my password. Can you please provide me with the steps to reset it?",reset_password,A password reset link has been sent to your email. Follow the instructions.
+"I can't seem to log in, and I think I might have forgotten my password. Can you please help me with resetting my password so I can access my account?",reset_password,A password reset link has been sent to your email. Follow the instructions.
+"I'm having trouble logging in, and I think I forgot my password. How can I reset it?",reset_password,A password reset link has been sent to your email. Follow the instructions.
+"I can't seem to remember my password, and I'm unable to log in. What's the best way to reset my password?",reset_password,A password reset link has been sent to your email. Follow the instructions.
+"Hi there, I forgot my password and can't log in. Can you please guide me through the password reset process?",reset_password,A password reset link has been sent to your email. Follow the instructions.
+I'm stuck outside my account because I forgot my password. How do I go about resetting it so I can log in again?,reset_password,A password reset link has been sent to your email. Follow the instructions.
+I'm having trouble logging in due to a forgotten password. Can you help me reset my password so I can access my account?,reset_password,A password reset link has been sent to your email. Follow the instructions.
+Can you please walk me through the process of installing the latest version of our video conferencing software?,software_install,Download the installer from the official site and follow the installation and setup instructions.
+What are the necessary steps to update our current video conferencing software to the latest version?,software_install,Download the installer from the official site and follow the installation and setup instructions.
+I'd like to ensure I have the latest version of our video conferencing software installed. Can you provide me with the steps to do so?,software_install,Download the installer from the official site and follow the installation and setup instructions.
+"How can I verify if I have the latest version of our video conferencing software installed, and if not, how can I update it?",software_install,Download the installer from the official site and follow the installation and setup instructions.
+I'm having trouble joining video calls on our current software. Can you help me troubleshoot this issue by guiding me through the process of installing the latest version of our video conferencing software?,software_install,Download the installer from the official site and follow the installation and setup instructions.
+Can you walk me through the process of installing the latest version of our video conferencing software?,software_install,Download the installer from the official site and follow the installation and setup instructions.
+What are the steps I need to follow to ensure a successful installation of the updated video conferencing software?,software_install,Download the installer from the official site and follow the installation and setup instructions.
+I'd like to install the latest version of our video conferencing software. Could you please provide me with the necessary steps to do so?,software_install,Download the installer from the official site and follow the installation and setup instructions.
+How do I proceed with installing the latest update to our video conferencing software on my computer?,software_install,Download the installer from the official site and follow the installation and setup instructions.
+"I apologize if this is a basic question, but I'm having trouble figuring out how to install the latest version of our video conferencing software. Can you please guide me through the process?",software_install,Download the installer from the official site and follow the installation and setup instructions.

@@ -1,0 +1,26 @@
+# Core Libraries
+pandas
+numpy
+
+# Data Augmentation
+nlpaug
+transformers
+torch
+
+# Back-Translation
+googletrans==4.0.0-rc1
+deep-translator
+
+# Grammar Correction
+language-tool-python
+
+# Text Similarity and Evaluation
+scikit-learn
+
+# Synthetic Data Generation (GPT, T5, Open Router (Gpt 4o-mini))
+transformers
+torch
+openai
+
+# Progress Tracking
+tqdm

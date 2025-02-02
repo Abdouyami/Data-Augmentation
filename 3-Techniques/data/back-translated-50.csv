@@ -1,0 +1,512 @@
+user_query,intent,solution
+Can we get a new set of high-performance monitors for our development team?,new_hardware_request,Submit a request detailing the type and number of monitors required.
+I have an update waiting for my software.,software_updates,"Go to the software's update section, and you should see an option to apply the pending update."
+Can you help me with the VPN configuration for a remote project?,vpn_setup,Ensure that you have the correct VPN configuration file and follow the remote project access instructions.
+"My external reader shows as ""offline"" in disk management",external_drive_issue,Try bringing the drive online in Disk Management or check the connection.
+My internet connection is only very slow during rush hour.,internet_issue,This might be due to network congestion. Contact your ISP for possible solutions.
+My computer is very slow and affects my ability to perform tasks.,slow_computer,Check if there are any background programs consuming resources and consider a hardware upgrade if needed.
+My tablet does not load despite the use of different chargers.,hardware_issue,The charging port or battery might be faulty. Try using another charger or consult a technician for repair.
+Why does my computer have such slow performance lately? It is very frustrating.,slow_computer,Run a performance diagnostic and check for any unnecessary startup programs that might be slowing down your system.
+A phishing email asks me to click on a link and provide my identification information.,report_phishing,Avoid clicking the link and report the email to IT support.
+How to access the shared folder from my mobile device?,shared_folder_access,Use the company's mobile app or contact IT for guidance.
+Unable to connect to the network after an update of the router firmware.,network_support,Verify that the router firmware update was successful and reset the router if necessary.
+Help necessary to configure VPN on another network.,vpn_setup,Make sure to update your VPN settings to match the new network environment and follow the setup guide.
+"I need to install a software update, but the installer does not work.",software_install,Check if the installer file is corrupted or try running it with administrator privileges.
+Everything on my computer works at a snail rate. What can I do?,slow_computer,Consider defragmenting your hard drive and checking for any software that might be slowing down your system.
+My external reader worked well but now it is not detected at all,external_drive_issue,Try connecting the drive to another computer or using a different cable to determine if the issue is with the drive or the computer.
+What is the last on my open ticket?,ticket_status,I’ll find the latest information on your open ticket.
+What are the common problems when updating the software and how can I solve them?,software_updates,Common issues include network problems and insufficient disk space. Ensure a stable connection and enough storage to resolve these.
+How can I change my username in the system?,change_username,Change your username by submitting a change request form through your account settings.
+I want to change my username to avoid confusion.,change_username,Submit your desired new username through the username change request form for processing.
+How to solve a network problem where I can connect to the router but not to the Internet?,network_support,"Check your router's connection to the internet. Restart the router and modem if needed, and contact your ISP if the problem persists."
+Is there a way to update software without affecting my current settings?,software_updates,"Most updates preserve settings, but it’s always good to back up important configurations before proceeding with an update."
+My USB ports do not work at all; nothing is detected.,hardware_issue,Check if the USB drivers are updated and ensure there are no physical damages to the ports. A system restart might help.
+Could you provide a new food unit for my workstation?,new_hardware_request,Submit a request specifying the type and capacity of the power supply unit.
+How can I check if I have access to the shared folder?,shared_folder_access,You can verify your access rights through the company’s intranet portal.
+I received a message saying that my account is locked. What should I do then?,unlock_account,Please follow the instructions in the message or reach out to our support team for help.
+I received a suspicious email requesting personal data under false pretexts.,report_phishing,Report this email and avoid providing any details.
+Everything takes too long on my computer; it works very slowly.,slow_computer,Consider performing a disk cleanup and optimizing your system settings to improve overall speed.
+I need a new scanner to scan old recordings. What is the process?,new_hardware_request,Submit a request with details about the scanner model and features needed.
+I need to change the language to marathi. Can you help?,change_language_settings,"To change the language to Marathi, open 'Settings', choose 'Language', and pick Marathi."
+I know errors when updating my software. What are the possible solutions?,software_updates,Check for error codes and consult the software’s help documentation or support for troubleshooting steps.
+I need a new tablet for my role in the development team. What is the process?,new_hardware_request,Request a new tablet with specifications needed through the IT request system.
+I need help to install recent updates for my software.,software_updates,Please visit the software's update page and follow the on-screen instructions to install the latest updates.
+My account is locked after entering the wrong password. Do I reset it?,reset_password,A reset link has been sent to your email to unlock your account.
+Was there any progress with my ticket?,ticket_status,I’ll find out if there has been any progress with your ticket.
+Why can't I access the company portal today?,access_issue,There may be a server or network issue. Contact IT for updates.
+The laptop touch screen does not precisely respond.,hardware_issue,Calibrate the touchscreen in the settings and ensure there are no physical damages to the screen.
+"I receive ""no internet access"" even if my device shows that it is connected to Wi-Fi.",internet_issue,Try forgetting and reconnecting to the network or restart your device.
+How to pass the display language in Malay?,change_language_settings,"To switch the display language to Malay, access 'Settings', choose 'Language', and select Malay."
+What are the steps to raise a new ticket in the system?,ticketing_system_guide,"To raise a new ticket, log in to the system, click on 'Create New Ticket', fill in the required details, and submit it. Ensure to include all relevant information for quicker resolution."
+Can you tell me if my ticket is still open?,ticket_status,I’ll verify if your ticket is still open or closed.
+"I asked for a password reset, but I did not receive an email.",reset_password,Please check your spam folder or request a new reset email.
+I have problems with my VPN configuration; it is not to connect.,vpn_setup,Check your network settings and ensure the VPN credentials are correct.
+Help me install the software required for remote access.,software_install,Ensure you have the installation file and follow the setup instructions provided by the remote access tool.
+"Help, I cannot access the shared folder after changing my password.",shared_folder_access,Update your credentials in the access settings or contact IT for help.
+The external reader does not appear in any of my USB ports,external_drive_issue,"Try using a different cable or USB port, or test the drive on another computer."
+I find it hard to reset my security questions. What should I do?,reset_security_questions,Contact customer support for assistance with resetting your security questions.
+What should I do if my software update is blocked?,software_updates,"Try restarting the update process or your computer. If the issue persists, check the software’s support resources."
+The external reader is not recognized after changing the operating system of the computer,external_drive_issue,Install any necessary drivers or check the drive's compatibility with the new OS.
+The VPN configuration does not successfully end; what should I do?,vpn_setup,Review the setup instructions and check for any installation errors or network issues.
+An e-mail claiming to come from a source of trust requires the details of my account.,report_phishing,Report the email as phishing and do not respond.
+Can you help me modify the language parameters in Malayalam?,change_language_settings,"To change the language settings to Malayalam, open 'Settings', choose 'Language', and select Malayalam."
+I would like to change my username to something more professional.,change_username,Submit a request with the new professional username through your account settings or support.
+How to update my username to be more relevant for my work?,change_username,"To update your username for work relevance, submit a request with the new username and work details."
+I need a new laptop because my current is too slow for my tasks. Can you help?,new_hardware_request,Submit a hardware request with details of the laptop requirements.
+How to customize the ticket fields to capture specific information?,ticketing_system_guide,"Customize ticket fields by going to 'Settings' > 'Ticket Fields', and add or modify fields as needed to capture relevant information."
+Unable to connect to a specific server on the local network. Other devices work well.,network_support,Ensure that the server is powered on and properly connected to the network. Check firewall settings for any blocks.
+I get frequent waiting times when I try to access online applications.,internet_issue,Check your network speed and contact your ISP if the issue continues.
+An unsolicited email asking for my sensitive information seems suspicious.,report_phishing,Report this email to IT support and do not respond.
+I want to update my username to something new.,change_username,"To update your username, go to your profile settings and follow the instructions for username change."
+I cannot connect to my email account.,access_issue,Ensure your login details are correct or reset your password if necessary.
+My computer is very slow and it is difficult to work effectively. Advice?,slow_computer,Free up disk space and check if upgrading RAM could provide better performance for your tasks.
+My software update takes too long. Is it normal?,software_updates,"Update times can vary based on file size and internet speed. If it’s unusually long, check for network issues or consult support."
+Please define the language on burma.comment is it done?,change_language_settings,"To set the language to Burmese, access 'Settings', select 'Language', and choose Burmese."
+My computer is so slow that it feels like it is stuck in the past. What should I do?,slow_computer,Try closing unnecessary programs and check if there are any system updates available that might improve performance.
+Why can't the VPN let me connect today?,access_issue,Double-check your VPN credentials and network settings.
+My password reset email has not yet arrived. Can you send it back?,reset_password,The reset email has been resent. Please check your inbox or spam folder.
+Why is there a significant delay in network communication?,network_support,Check for network congestion and consider contacting your ISP if the delay persists. Ensure your network equipment is functioning properly.
+I need an update on my recent post.,ticket_status,I’ll get an update on your recent ticket for you.
+Can you help me define the language in Bulgarian?,change_language_settings,"To set the language to Bulgarian, open 'Settings', select 'Language', and choose Bulgarian."
+Check if there is an update on my ticket.,ticket_status,I’ll check for any updates on your ticket.
+Why is my connection speed if slow even if I am connected to the network?,network_support,Test your connection speed and compare it with the expected speed from your ISP. Consider contacting your ISP if the speed is significantly lower.
+Please inform me of the status of my ticket.,ticket_status,I’ll inform you of the current status of your ticket.
+Where can I follow the progress of my ticket?,ticket_status,You can track the progress of your ticket on our support portal.
+Can I get help to access the shared folder from my laptop?,shared_folder_access,Ensure you’re connected to the network and contact IT if the issue persists.
+I have received a phishing email that claims to come from a source of trust asking for confidential information.,report_phishing,Report the email and delete it from your inbox.
+How to update my software if I have no administrative rights?,software_updates,Contact your IT administrator for assistance with updating software if you lack the necessary permissions.
+The laptop CD player does not eject any disk.,hardware_issue,Try using the manual eject button or check if the drive's motor is malfunctioning.
+How can I ask for a new username if I no longer like my current?,change_username,Request a new username by providing your preferred username through the request form available in your account settings.
+Can you guide me on the change in the language into Slovenian?,change_language_settings,"To change the language to Slovenian, navigate to 'Settings', find 'Language', and select Slovenian."
+Why can't I connect to the corporate network after changing my password?,network_support,Update your network credentials on your device to reflect the new password and try reconnecting.
+Please update me on the condition of my ticket.,ticket_status,I’ll provide you with the latest update on your ticket status.
+"I am unable to access websites from my laptop, but my phone is well connected.",internet_issue,Try clearing your browser cache or resetting your laptop's network settings.
+I need instructions to configure VPN on my smartphone.,vpn_setup,Refer to the mobile VPN setup guide available on the company intranet.
+The VPN connection is unstable; what can I do?,vpn_setup,Check your network connection and ensure that the VPN client is properly configured.
+Is it necessary to restart my computer after a software update?,software_updates,Many updates require a restart to complete installation. Follow any prompts to restart your computer if needed.
+The laptop screen has vertical lines that cross it.,hardware_issue,This could be due to a display or graphics card issue. Try updating graphics drivers and check the display connections.
+My external reader is extremely slow when copying files,external_drive_issue,This could be due to a faulty cable or drive. Try using a different cable and check the drive for errors.
+The external hard drive makes a click noise and does not work.,hardware_issue,The clicking noise indicates a possible hard drive failure. Backup data if possible and consider replacing the drive.
+I need help to install Adobe Photoshop on my laptop.,software_install,Please provide the installation media and license key for Adobe Photoshop.
+"My password has expired, and now I can't connect.Can you guide me?",reset_password,Please follow the password reset link sent to your email to update your password.
+I want to change my security questions. How can I do this?,reset_security_questions,Log in to your account and go to the security settings to change your security questions.
+What is the process of updating my applications?,software_updates,"Open the app store, go to 'Updates', and install any available updates for your applications."
+How to reset my security questions when I am locked up with my account?,reset_security_questions,Contact support for identity verification and assistance with resetting your security questions.
+"I need to change my password, but I don't remember the old one.",reset_password,A reset link has been sent to your email to create a new password.
+How to unlock my account if my password does not work?,reset_password,Reset your password using the reset link sent to your email to unlock your account.
+Why does my computer work so slowly lately?,slow_computer,Please check if there are any resource-intensive programs running in the background or consider restarting your computer.
+I try to install a new project management tool but it fails.,software_install,Check for system compatibility issues and try running the installer as an administrator.
+The VPN client does not launch after installation; what to do?,vpn_setup,Reinstall the VPN client or check for any software conflicts that might be preventing it from launching.
+Help me change the tongue in Romanian. It doesn't work.,change_language_settings,"To change the language to Romanian, go to 'Settings', find 'Language', and choose Romanian."
+What is the process of reopening a ticket after closing?,ticketing_system_guide,"Reopen a closed ticket by finding it in the 'Closed Tickets' section, clicking 'Reopen', and adding any additional information if needed."
+My computer was unusually slow; it is difficult to do work.,slow_computer,Perform a system diagnostic to identify any issues and consider upgrading hardware if necessary.
+How to configure VPN for optimal performance?,vpn_setup,Follow the performance optimization guidelines provided in the VPN setup documentation.
+Please update the language to Spanish on my account. I don't see the option anywhere.,change_language_settings,"To update the language to Spanish, visit 'Settings', find 'Language', and choose Spanish from the available options."
+"I cannot access certain services, but my internet connection seems much otherwise.",internet_issue,Check if the services are experiencing outages or if there are any local network issues.
+Can I get a new instructor for my workstation?,new_hardware_request,Please submit a request through the hardware requisition form.
+"I need to reset my password, but I don't have access to my email.",reset_password,You will need access to your email to reset your password. Contact IT for further assistance.
+The hinge of my laptop is loose and does not maintain the screen correctly.,hardware_issue,This might require hardware repair. Consult with a technician to fix or replace the hinge.
+How can I bring out my signature by email with a unique design?,email_signature_setup,Create a unique design by using advanced formatting options in your email signature settings. Consider adding graphical elements or custom fonts.
+Can I get a new home station for my laptop? The current is obsolete.,new_hardware_request,Request a new docking station through the hardware requisition system.
+Please organize a new set of office offices for new employees.,new_hardware_request,Submit a request detailing the number and type of desks required.
+The keyboard keys stick and do not work properly.,hardware_issue,Try cleaning the keyboard gently or connect it to another computer to check if the issue persists.
+How can I follow ticket resolution times and performance measures?,ticketing_system_guide,"Track resolution times and performance metrics through the 'Reports' section, where you can generate reports on ticket handling efficiency."
+What should I do if my ticket status does not update?,ticketing_system_guide,"If your ticket status is not updating, try refreshing the page. If the issue persists, contact the IT support team for assistance."
+"I received a false email requesting the information from my account, pretending to be a medium.",report_phishing,This is a phishing attempt. Report it to IT support.
+My account is locked due to too many connection attempts. How can I unlock it?,unlock_account,Wait for the lockout period to end or contact support for immediate help in unlocking your account.
+I am unable to access any of my remote work files.,access_issue,Ensure you are connected to the VPN or check with IT for remote access issues.
+I received a message requesting my connection details under the claim to verify the account.,report_phishing,Do not provide any information. Report the email to IT support.
+How to ask for a username change?,change_username,Request a username change by filling out the change form available in your account settings or contacting support.
+How to modify the language parameters into Swedish?,change_language_settings,"To modify the language settings to Swedish, go to 'Settings', find 'Language', and choose Swedish."
+I cannot access my email and I think it is linked to an internet problem.,internet_issue,Check your internet connection and try accessing your email through a different device.
+I wish to configure a signature which includes a calendar link for meeting meetings.,email_signature_setup,Include a calendar link by adding it to your email signature. Use the signature settings to insert the link and ensure it is correctly formatted.
+I need to define the tongue on the Turk. Can you cross me?,change_language_settings,"To set the language to Turkish, access 'Settings', navigate to 'Language', and choose Turkish."
+An e-mail from an unknown source requests my company identification information.,report_phishing,This email is likely phishing. Report it and delete it from your inbox.
+Can you help me configure VPN for remote access?,vpn_setup,Make sure you have the correct VPN configuration file and follow the setup instructions provided.
+Can you help install the new company design software?,software_install,Ensure you have the installation file and license information ready before starting.
+Can I use HTML to format my email signature?,email_signature_setup,"Yes, you can use HTML to format your email signature. Enter the HTML code in the signature settings if your email client supports it."
+How to install and configure the new database software?,software_install,Follow the installation guide provided by the software and ensure your system meets the prerequisites.
+Please organize a new reception station for my office configuration.,new_hardware_request,Submit a request specifying the type of docking station needed.
+Why is there no network connection on my mobile device even if Wi-Fi is activated?,network_support,"Toggle Wi-Fi off and on, or try restarting your mobile device. Ensure you are connected to the correct Wi-Fi network."
+I ask for a new laptop stand to improve ergonomics at my office.,new_hardware_request,File a hardware request specifying the type of laptop stand needed.
+I ask for a new high resolution printer for our design team. How to proceed?,new_hardware_request,Submit a hardware request specifying the printer's resolution and features.
+Is my ticket still on hold?,ticket_status,I’ll check if your ticket is still pending.
+I can't access my account.,access_issue,"Please verify your login credentials and try again. If the issue persists, reset your password."
+Please help me update my username.,change_username,"To assist with your username update, submit the new username through the request form or contact support."
+Everything on my computer seems slow. What measures can I take to improve it?,slow_computer,Consider running a full system scan for malware and closing any unnecessary applications to free up resources.
+How to update my username if it is no longer suitable?,change_username,Submit a request with the new username through your account settings or support for an update.
+I need to install new desktop productivity software on my computer.,software_install,Ensure you have the installation file and follow the provided setup instructions for installation.
+Why am I unable to connect to the internal cat system?,access_issue,Ensure your login details are correct or reset your password.
+I try to access the VPN but it does not connect.,access_issue,Check your VPN credentials and network settings. Contact IT if the issue continues.
+Help me add an address and a company's website to my signature by e-mail.,email_signature_setup,Include your company address and website by editing the email signature settings. Add the information in a clear format and save the updated signature.
+Can you tell me if my ticket was closed?,ticket_status,I’ll verify if your ticket has been closed.
+I must make sure that my signature by e-mail complies with legal requirements.,email_signature_setup,Review legal requirements for email signatures and include necessary elements like disclaimers or compliance statements in your signature settings.
+Please organize a new set of desktop binders for the storage of documents.,new_hardware_request,File a request specifying the number and type of filing cabinets required.
+How can I check the updates if I am not connected to the Internet?,software_updates,You need an internet connection to check for and download updates. Connect to the internet and try again.
+I want to change my username to reflect a recent change of job title.,change_username,"For a job title change, provide the new username and job details through the support portal."
+My username should be modified due to a typing fault.,change_username,"To correct a typo, submit a request with the corrected username through your account settings."
+Please let me know the condition of my assistance ticket.,ticket_status,I’ll provide you with the status of your support ticket.
+Why does my computer work if slow when I try to perform simple tasks?,slow_computer,Ensure your operating system and drivers are up to date and consider closing unnecessary background applications.
+An e-mail of an unknown source urgently requires sensitive information.,report_phishing,Report this suspicious email and do not act on it.
+"Can you help me reset my password? I tried, but it doesn't work.",reset_password,"Please use the reset link in your email. If it doesn’t work, request a new one."
+Please show me how to add a professional title and department to my signature by e-mail.,email_signature_setup,Add a professional title and department by editing your email signature settings. Include these details in the signature format and save the changes.
+I cannot connect to the Internet despite the restart of my modem and my router several times.,internet_issue,Verify all connections and consider contacting your ISP for further assistance.
+I need to change my username but keep my account active.,change_username,Changing your username will keep your account active. Submit a request with the new username through your account settings.
+I try to install a new software but it continues to fail.,software_install,Check if there are any compatibility issues and ensure you are following the installation steps correctly.
+I need a guide to reset my security questions after forgetting them.,reset_security_questions,Use the account recovery features or contact support for a reset of your security questions.
+What is the update of my recent ticket submission?,ticket_status,Let me get the latest update on your ticket submission.
+How can I update my username to match my new email address?,change_username,"To match your new email address, request a username change by providing the new username and email address."
+Can you show me how to define the language in Korean?,change_language_settings,"To set the language to Korean, go to 'Settings', choose 'Language', and select Korean from the options."
+I cannot connect to the customer portal.,access_issue,Ensure you’re using the correct credentials or reset your password.
+How can I unlock my account if it has been locked for security reasons?,unlock_account,Follow the provided security instructions or contact support for help with unlocking your account.
+I need a new server rack for our data center. What is the process?,new_hardware_request,File a request with the specifications for the server rack needed.
+I am unable to format my external reader; it continues to fail,external_drive_issue,Try using a different formatting tool or check if the drive has physical damage.
+How can I update an existing ticket?,ticketing_system_guide,"To update an existing ticket, log in, find the ticket under 'My Tickets', select it, and click 'Edit'. Make your changes and save the update."
+"I get an error of ""request to describe the stranded device"" for my external reader",external_drive_issue,"Try reconnecting the drive, updating drivers, or testing the drive on another computer."
+I am looking for the current state of my assistance ticket.,ticket_status,I’ll retrieve the current status of your helpdesk ticket.
+Where can I follow the condition of my ticket?,ticket_status,You can track your ticket’s status through our online system.
+The speed of my computer is very low and it becomes difficult to use.,slow_computer,Check for any system updates and perform a disk cleanup to resolve performance issues.
+Can you guide me on how to modify the language parameters in the application?,change_language_settings,"To change language settings in the app, open 'Settings', find 'Language', and pick your desired language."
+I forgot my password and I can't reset it via the usual method.,reset_password,A reset link has been sent to your email. Please follow the instructions.
+I need a new videoconferencing configuration for our meeting room.,new_hardware_request,Request a new video conferencing setup through the IT equipment request system.
+The VPN client displays errors after installation; advice?,vpn_setup,Try reinstalling the VPN client or consult the troubleshooting section of the installation guide.
+A strange e-mail urgently asks for my username and password.,report_phishing,This is a phishing attempt. Report it and delete the email.
+The performance of my computer is considerably lagging behind. What can I do to repair it?,slow_computer,Free up disk space and perform a system check to identify any issues affecting your computer's performance.
+The system says that I use a username or a non -valid password.,access_issue,Double-check your credentials or reset your password.
+How to update software on a device issued by the company?,software_updates,Follow your company's IT policies and procedures for updating software on company-issued devices.
+I need help installing new video editing software.,software_install,Ensure you have the correct installation file and follow the setup instructions for the software.
+I would like to include the title of my post and contact information in my messaging signature.,email_signature_setup,"To include your job title and contact info, edit your email signature settings and add the necessary details. Save and apply the changes."
+Meet problems with network safety settings.,network_support,Review your network security settings and ensure that they are properly configured to protect your network.
+Can you explain the various statutes of tickets and what they mean?,ticketing_system_guide,"Ticket statuses include 'Open', 'In Progress', 'Resolved', and 'Closed'. Each status indicates the current stage of the ticket's resolution process."
+An e-mail requesting my connection identification information seems suspicious.,report_phishing,This is likely phishing. Report it and do not engage.
+What is the current state of my request?,ticket_status,I’ll check the current status of your request.
+Can you guide me through the installation of a new data visualization tool?,software_install,Download the installer from the official site and follow the installation guide provided for the tool.
+I have missed an update for my software. How can I get it now?,software_updates,Go to the software’s update section and manually check for updates to download and install the missed version.
+I need to configure a signature with several contact methods.,email_signature_setup,"Add multiple contact methods to your email signature by including phone numbers, email addresses, and other relevant details. Save and apply the changes."
+How can I manage and organize my tickets more efficiently?,ticketing_system_guide,"Use the categorization and tagging features in the ticketing system to organize and filter tickets based on priority, status, or type."
+Can you repair my access to the shared folder? It does not appear.,shared_folder_access,Report the issue to IT to ensure proper access.
+Can I get help with the VPN configuration to access the remote resources?,vpn_setup,Ensure you have the correct VPN configuration for remote access and follow the setup instructions provided.
+What is the process of resolving and closing tickets?,ticketing_system_guide,"Once a ticket is resolved, update its status to 'Resolved' and provide any resolution details. Close the ticket after confirming the issue is fully addressed."
+I find it difficult to open a shared folder from my work computer.,shared_folder_access,Check your network connection and permissions or consult IT.
+My computer is very slow and insensitive. What could be the cause?,slow_computer,Look into recent software installations or updates that might be causing the slowdown and address them accordingly.
+My username is not appropriate.,change_username,Submit a request with the new username and reason for the change to our support team.
+I am locked from my account after too many missed connection attempts.,access_issue,Please reset your password to unlock your account.
+Having trouble connecting several devices to the network simultaneously.,network_support,Check your router’s settings for device limits or consider upgrading to a router with better handling for multiple devices.
+Unable to connect to the Wi-Fi network.,network_support,Please check your Wi-Fi settings and ensure you are within range of the network.
+I need to find access to a shared file that I used to have.,shared_folder_access,Contact IT to reinstate your previous access rights.
+Can you guide me through the creation of a ticket from start to finish?,ticketing_system_guide,"Of course. Start by logging into the system, then go to 'Create Ticket', fill out the form with your issue details, attach relevant files, and submit it."
+"Get a ""limited connectivity"" error on my laptop, but other devices work well.",network_support,Try restarting your laptop and network devices. Check if your laptop’s network settings are configured correctly.
+Can you help installing our new content management system?,software_install,Ensure you have the correct installer and follow the provided setup instructions for a successful installation.
+I want my signature by email to be more visually attractive with different sections.,email_signature_setup,Enhance your email signature by creating sections for different types of information. Use formatting tools in the signature settings to organize the content.
+"I am unable to access my external reader due to an ""file system error""",external_drive_issue,Run a file system check or use recovery software to fix the error.
+I am locked from my account after entering the bad password several times. What can I do?,unlock_account,Wait for the lockout period to end or contact support for help with unlocking your account.
+I am unable to access my account because my password seems incorrect.,reset_password,Try resetting your password using the 'Forgot Password' option on the login page.
+Access to the shared file has been restricted. You can help?,shared_folder_access,Check if your access permissions have changed and consult IT.
+My software requires an update. What should I do?,software_updates,Follow the prompt to initiate the update process and ensure you have a stable internet connection.
+"The external reader continues to give ""E / S error"" messages",external_drive_issue,This could be due to hardware issues. Check the drive on another computer or replace the cable.
+Can anyone guide me through the VPN installation process?,vpn_setup,"Follow these steps: download the VPN client, install it, and configure the settings according to the company guidelines."
+I cannot access my account because it is locked. Can you provide a solution?,unlock_account,Use the password reset option or contact support for help with unlocking your account.
+My external reader works intermittently when it is connected to my laptop,external_drive_issue,Try connecting the drive to a different port or computer to isolate the issue.
+My computer works very slowly. I need help to solve this problem.,slow_computer,Ensure your operating system is up to date and consider increasing RAM if your tasks are demanding more resources.
+The external reader appears in the peripheral manager but not in File Explorer,external_drive_issue,Try updating the drivers or assigning a new drive letter in Disk Management.
+My network is slow during peak hours. What can I do?,network_support,Consider upgrading your internet plan or contacting your ISP to discuss possible solutions for slow speeds during peak hours.
+Why does he say that I do not have permission to open this document?,access_issue,You might need permission from the owner. Contact IT for access.
+The load port of the laptop is loose and does not hold the charger.,hardware_issue,The charging port might need repair or replacement. Consult with a technician to fix the port.
+I have problems with the installation of a new data analysis software.,software_install,Check system compatibility and ensure you follow the installation steps accurately.
+The speed of my computer has decreased considerably. What should I do?,slow_computer,"Check for any resource-heavy applications and close them, and ensure your system has adequate free space."
+My account was locked. Is there a way to unlock it online?,unlock_account,"Yes, you can unlock your account online by following the instructions in the recovery email or by contacting support."
+How to get the latest updates from my graphic software?,software_install,Visit the software's official website or use its built-in update feature to get the latest updates.
+What steps should I follow to reset my security questions?,reset_security_questions,Visit the account security section to reset your questions or contact support for further assistance.
+Need help with the VPN configuration for access to secure data.,vpn_setup,Follow the company’s secure data access VPN setup instructions to ensure proper configuration.
+Can I configure different signatures for different messaging wires?,email_signature_setup,"Typically, email signatures are uniform across threads. Some email clients may offer options to set different signatures based on specific threads or contexts."
+My account was locked due to multiple missed connection attempts. How to find access?,unlock_account,"To regain access, please wait for the lockout period to expire or contact support for immediate assistance."
+I need to change my security issues and I don't remember the answers.,reset_security_questions,Contact support to assist with resetting your security questions or use the recovery options available.
+I think I received a phishing attempt asking sensitive data.,report_phishing,Report this email to IT support and do not engage with the sender.
+We need a new set of charging stations for our mobile devices.,new_hardware_request,Submit a request specifying the number and type of charging stations needed.
+Is there a guide to configure VPN on a new device?,vpn_setup,"Yes, there’s a detailed guide in the IT support section of the company website."
+How to modify the language parameters in Hungarian?,change_language_settings,"To alter the language settings to Hungarian, open 'Settings', select 'Language', and pick Hungarian."
+The laptop housing is cracked and the screen is partially detached.,hardware_issue,This might require a case or screen replacement. Consult with a technician to assess the damage and repair.
+I get an error when I try to open the shared file from the house.,shared_folder_access,Ensure you're using the correct VPN and contact IT for support.
+The screen of my laptop vacillates; it's really boring.,hardware_issue,Ensure your graphics drivers are up to date and check the laptop's display settings.
+I forgot my password and I can no longer access my account.,reset_password,Please use the reset link sent to your email to set a new password.
+I am unable to connect to the Internet after a recent power failure.,internet_issue,Check if all your networking equipment is powered on and try restarting your router.
+I have problems with my printer; he continues to scramble.,hardware_issue,Try clearing any paper jams and ensure that the printer is loaded correctly with paper.
+How to configure VPN for secure home access to home?,vpn_setup,Ensure you’re using the correct VPN client and follow the work-from-home configuration instructions.
+I need a step -by -step guide to reset my security questions.,reset_security_questions,Follow the instructions in the account security settings or get help from customer support.
+Help me set up a signature that includes a legal warning and contact details.,email_signature_setup,Add a legal disclaimer and contact information by including these elements in your email signature settings. Ensure the disclaimer is clearly stated.
+How to go to the Tamil language?,change_language_settings,"To switch to Tamil, access 'Settings', choose 'Language', and select Tamil."
+My computer's performance has deteriorated and it's very slow now.,slow_computer,Check if there are any background applications consuming resources and try closing them to improve speed.
+"My device shows that it is connected to the Internet, but I cannot travel by websites.",internet_issue,Try restarting your device and checking your network settings.
+"I can connect to the internet, but it is very slow and incoherent.",internet_issue,Check for network interference or contact your ISP to diagnose the problem.
+"My computer recognizes the external reader, but it does not appear in any application",external_drive_issue,Try reinstalling the drive's drivers or checking the drive's health.
+Can you help me update software on my work computer?,software_updates,"Follow the same steps as for personal computers, ensuring you have the necessary permissions to update work software."
+Please process my request to update my username.,change_username,Your username update request is being processed. Expect a confirmation email shortly.
+Can you guide me on how to change my username?,change_username,"To guide you, visit the help section on our website and follow the username change instructions provided there."
+I need to install a new security fix but it doesn't work.,software_install,Ensure the patch is compatible with your system and follow any additional installation instructions provided.
+Can you guide me throughout the process of modifying my username?,change_username,"To guide you, follow the instructions provided in your account settings for a username change request."
+Where can I see the last status of my ticket?,ticket_status,You can see the latest status of your ticket on our portal.
+I am faced with VPN configuration problems; Can I get a step-by-step guide?,vpn_setup,Refer to the detailed VPN setup guide available in the IT support documentation.
+Can I change my username if I am already connected?,change_username,"Yes, you can change your username from your account settings while logged in."
+"My computer takes on eternity to start, and it is very slow during use.",slow_computer,You might want to check for startup programs that slow down boot time and consider cleaning up temporary files.
+I can't connect because my account is locked. Is there a way to unlock it via the website?,unlock_account,"Yes, use the account recovery options on the website or contact support for assistance in unlocking your account."
+I find it difficult to understand how the ticket system works; what should I do?,ticketing_system_guide,I recommend reading the FAQ section of the ticketing system documentation or reaching out to the support team for a detailed walkthrough.
+I need to pass the language in French. How do you do that?,change_language_settings,"To switch the language to French, access 'Settings', navigate to 'Language', and select French from the list."
+Can we get new ergonomic keyboards for our team?,new_hardware_request,Submit a request through the hardware requisition system with details of the keyboard model.
+"The external reader has a ""delayed writing failure"" error """,external_drive_issue,Check the drive connection and try updating or reinstalling the drivers.
+I ask for a new wireless router for better connectivity from the office.,new_hardware_request,Request a new wireless router through the hardware requisition system.
+Experience difficulties with network authentication.,network_support,Verify your network credentials and check if there are any authentication issues with the network server.
+Help me create an email signature that reflects my new role and coordinates.,email_signature_setup,Update your email signature to reflect your new role and contact info by editing the signature settings. Save and apply the updated signature.
+Everything on my computer takes an eternity to answer. What could this?,slow_computer,Check for malware or system issues using a diagnostic tool to identify and resolve potential problems.
+I cannot connect to the company's intranet from the house.,network_support,Check your VPN connection or remote access settings to ensure you have proper access to the company intranet.
+We need a new scanner for the document management system. Can you help?,new_hardware_request,File a request specifying the scanner model and features needed.
+How to add a call to action to my signature by e-mail?,email_signature_setup,Add a call-to-action by including a link or text in your email signature that encourages recipients to take a specific action. Format it clearly and save the signature.
+I need to reset my security questions due to forgetting the answers.,reset_security_questions,Contact customer support for verification and reset of your security questions.
+I want to change my username because it's too common.,change_username,"To change to a less common username, provide your preferred new username through the change request form."
+Help me install the latest version of our video conference software.,software_install,Download the installer from the official site and follow the installation and setup instructions.
+"External reader error: ""the parameter is incorrect""",external_drive_issue,Run a disk check to attempt to fix the error.
+I received an e-mail urgently asking for my identification information. It seems suspicious.,report_phishing,Report this email to IT support and delete it from your inbox.
+An e-mail claiming to come from computer intensification requires my connection details.,report_phishing,Report this email immediately and do not provide any information.
+My system crashes each time I perform heavy applications.,hardware_issue,This might be due to overheating or insufficient hardware resources. Check your system's cooling and consider upgrading components.
+Help the installation of the new software to manage customer comments.,software_install,Download the software from the official site and follow the installation and setup guide.
+Please organize new ergonomic office chairs for the team.,new_hardware_request,File a request specifying the number and type of ergonomic chairs required.
+"My connection is good, but I continue to get ""page not found"".",internet_issue,Check if the website is down for everyone or just you by using a service like DownDetector.
+A pretending message coming from computer care requires sensitive data.,report_phishing,Report this email as phishing and do not provide any information.
+I need help with user authorizations from the ticket system; where can I get help?,ticketing_system_guide,"For user permissions issues, consult the permissions management section in the admin guide or contact the system administrator."
+I face a slow computer; this considerably affects my workflow.,slow_computer,Try reducing the number of running programs and check for any updates or patches that could improve performance.
+Unable to connect to the network after a recent software update.,network_support,Check for any changes in network settings caused by the update and ensure that all drivers are up to date.
+How can I install the latest version of our project tracking tool?,software_install,Download the latest installer from the official site and follow the installation prompts.
+The keyboard hits double letters and behaves irregularly.,hardware_issue,Try cleaning the keyboard and ensure there are no hardware issues with the keys.
+My password has stopped working. Can help me reset it?,reset_password,Follow the reset link sent to your email to reset your password.
+I don't know how to attach files to my post. How can I do this?,ticketing_system_guide,"To attach files, open the ticket creation or editing page, click 'Attach File', select your files, and upload them before submitting the ticket."
+Why can't I access the internal website from home?,access_issue,Ensure you're connected to the VPN or contact IT for remote access support.
+What is the best way to follow several tickets at the same time?,ticketing_system_guide,Use the 'Ticket Dashboard' to view and manage multiple tickets simultaneously. You can filter and sort tickets based on status and priority.
+Need advice on the implementation of a network firewall.,network_support,Consult your network security documentation or contact IT support for assistance with firewall configuration.
+The computer makes BIP noises during start -up.,hardware_issue,Beeping noises can indicate hardware issues. Refer to your motherboard's manual for beep codes and troubleshooting steps.
+The network seems good but I cannot access specific websites.,network_support,"Try clearing your browser's cache and cookies, or check if the websites are down for maintenance."
+I forgot my password and now I can't connect.,reset_password,A reset link has been sent to your email. Use it to set a new password.
+I need to update the language towards Thai. Can you help?,change_language_settings,"To update the language to Thai, go to 'Settings', choose 'Language', and select Thai."
+"I want to reset my security questions, but I cannot access my account.",reset_security_questions,Contact customer support for assistance with resetting your security questions.
+I am looking for a tutorial on how to use the advanced features of the ticket system.,ticketing_system_guide,Advanced feature tutorials can be found in the 'Advanced User Guide' section on the support portal.
+I need to know how to connect to the shared folder on a new computer.,shared_folder_access,Follow the setup instructions provided by IT or consult their guide.
+My computer has become extremely slow; what actions should I take?,slow_computer,Run a performance diagnostic and check if upgrading your system’s hardware could help resolve the issue.
+"I cannot eject my external reader safely; he says that ""the reader is used""",external_drive_issue,Ensure all files and applications using the drive are closed before ejecting.
+I need a username change due to a recent rebranding effort.,change_username,Submit a username change request with the new name to align with your rebranding efforts.
+Help me install the new HR software on my workstation.,software_install,Verify you have the correct installer and follow the setup instructions for a successful installation.
+Computer's external speakers produce static noise.,hardware_issue,Check the speaker connections and audio settings. Try using different audio cables or speakers.
+I am unable to connect to VPN after changing my password.,vpn_setup,Update your VPN client with the new password and recheck the connection settings.
+The external reader is recognized but fails to complete file transfers,external_drive_issue,Check for drive errors or use a different cable to see if that resolves the issue.
+My computer does not start.,hardware_issue,Please check if the power cable is securely connected and try restarting the computer.
+"Why can I get a ""DNS Server does not respond"" error?",network_support,Check your DNS settings or try using a different DNS server. Restarting your router may also help.
+I need to update my VPN settings for another server.,vpn_setup,Access your VPN client settings and update the server address as per the new instructions.
+How can I configure VPN on a MacBook?,vpn_setup,Follow the specific VPN setup instructions for macOS available in the IT documentation.
+Is my ticket still in progress?,ticket_status,I’ll confirm if your ticket is still pending review.
+My connection drops intermittently throughout the day.,internet_issue,Check for any interference with your router and contact your ISP if the problem persists.
+My request to reset password has not yet been processed. Can you check it?,reset_password,Please check your email or spam folder for the reset link.
+Can you help me unlock my account?,unlock_account,"To unlock your account, please follow the steps provided in the email sent to you or contact support if you need further assistance."
+"How to correct an error in ""network cable disconnected""?",network_support,Check the physical connection of your network cable and ensure it is securely plugged into your device and router.
+Please guide me to change the language to Nepalese.,change_language_settings,"To switch the language to Nepali, open 'Settings', select 'Language', and choose Nepali."
+I can't connect; I think I forgot my password. Can you help me reset it?,reset_password,A password reset link has been sent to your email. Follow the instructions.
+My account is locked and I don't know why can I unlock it?,unlock_account,Contact our support team for information and assistance with unlocking your account.
+How to install and configure VPN on a new device?,vpn_setup,"Download the VPN client, install it, and follow the configuration steps provided in the setup guide."
+I need to install a new software tool but it displays an error.,software_install,Consult the error message for details and refer to the software’s troubleshooting guide for solutions.
+What should I do to reset my security questions if I forgot them?,reset_security_questions,Use the account recovery options or get help from customer support to reset your questions.
+I forgot my password and now I can't connect.,access_issue,You can reset your password through the ‘Forgot Password’ link on the login page.
+I have problems with the VPN settings after an update of the system.,vpn_setup,Reconfigure your VPN settings according to the updated guidelines or seek assistance from IT support.
+I need to reset my security questions and I can't find the option.,reset_security_questions,Check the account recovery options or reach out to support for help with resetting your security questions.
+I lost the answers to my security questions and I have to reset them.,reset_security_questions,Use the account recovery options or contact support to reset your security questions.
+I need to know if my ticket has been resolved.,ticket_status,I'll check if your ticket has been resolved.
+I need to change my username to reflect my new role.,change_username,"To reflect your new role, submit a username change request with the new role details through our support."
+My computer is very slow and has an impact on my productivity. A help?,slow_computer,Run a system cleanup and check for any updates that might improve the performance of your computer.
+My account was locked. Can you guide me throughout the unlocking process?,unlock_account,You can unlock your account by following the provided steps or contacting our support team for detailed guidance.
+Has my ticket already been treated?,ticket_status,I’ll confirm if your ticket has been addressed.
+Check the condition of my assistance request ticket.,ticket_status,I’ll look up the status of your help request ticket.
+Could you help me get a new office printer for my department?,new_hardware_request,Submit a request specifying the printer model and department details.
+My laptop Wi-Fi does not connect to any networking.,hardware_issue,"Try restarting your router and updating your Wi-Fi drivers. If the problem persists, the Wi-Fi card might need replacement."
+Can I include a banner image in my email signature?,email_signature_setup,"Yes, you can include a banner image by uploading it in the signature settings. Ensure the image is appropriately sized and formatted."
+Can you explain the software update process on a server?,software_updates,"Access the server’s management console, navigate to the update section, and follow the prompts to apply available updates."
+The Wi-Fi signal is low in some rooms in my house. What can I do?,internet_issue,Consider moving your router to a more central location or using a Wi-Fi extender.
+Can I get help with the VPN configuration on Linux?,vpn_setup,Follow the Linux VPN setup guide provided in the IT support documentation.
+I ask for a new set of headphones with a microphone for remote meetings.,new_hardware_request,Submit a request detailing the type of headphones and microphone needed.
+My external reader makes a click noise and is not accessible,external_drive_issue,This could indicate a hardware failure. Try connecting the drive to another computer to see if the issue persists.
+How to unlock my account if I forgot my password?,unlock_account,Use the 'Forgot Password' feature to reset your password and unlock your account.
+Need to help configure static IP addresses for network devices.,network_support,Consult your network documentation or IT support for guidance on setting up static IP addresses for your devices.
+Can you check if my ticket is still in progress?,ticket_status,I’ll check if your ticket is still in progress.
+The external reader does not appear in disc management,external_drive_issue,Try connecting the drive to another computer to see if it shows up there.
+Could you organize a new external hard drive? The current is full.,new_hardware_request,Request a new external hard drive via the IT department's hardware request system.
+The external reader has a strange file system format that my computer does not recognize,external_drive_issue,You may need to reformat the drive to a compatible file system.
+Can you help me with my slow computer? It freezes and the applications are lagging behind.,slow_computer,Consider checking for software updates and running a full system scan for malware that could be affecting performance.
+The network card of my desktop does not connect to the Internet.,hardware_issue,Try resetting your router and updating your network drivers. Ensure the network card is properly seated.
+I cannot connect to the time monitoring system.,access_issue,Ensure your credentials are correct or reset your password.
+The external reader appears in disc management but not in Explorer file,external_drive_issue,You may need to assign a new drive letter or initialize the drive in Disk Management.
+Is there any new information on my ticket?,ticket_status,I’ll check if there’s any new information regarding your ticket.
+I want to switch to the Greek language. Where can I find the option?,change_language_settings,"To switch to Greek, go to 'Settings', choose 'Language', and select Greek."
+I forgot my security question answers and I need to update them.,reset_security_questions,Request a reset through the account recovery process or contact support.
+My computer works badly. It takes a lot of time to load anything.,slow_computer,Review and close any non-essential applications and perform a system cleanup to enhance performance.
+My access to the shared folder is missing after a system upgrade.,shared_folder_access,Report the issue to IT as it might be related to the upgrade.
+The files on my external reader do not display even if the reader is detected,external_drive_issue,Check for hidden files or scan the drive for malware.
+I need to change my username due to a recent merger.,change_username,"For a username change due to a merger, provide the new username and relevant details through support."
+My computer is slow to recognize my external player,external_drive_issue,This could be due to the drive's health. Try connecting it to another computer or port.
+I need to configure zoom on my computer. Can you help?,software_install,Download the Zoom installer from the official site and follow the installation prompts.
+I am stuck in the password reset process. It does not work.,reset_password,Request a new reset link and ensure you're following the instructions.
+What should I do if an update cannot install?,software_updates,"Retry the installation, check for sufficient disk space, and consult the software’s help resources if the issue persists."
+My laptop screen is completely black even if the computer is on.,hardware_issue,This could be due to a faulty display or connection issue. Try connecting an external monitor to diagnose the problem.
+I need to update my username. How can I do this?,change_username,"To update your username, submit a request with your new username and current account details."
+My external monitor displays blurred images.,hardware_issue,Check the monitor's resolution settings and ensure the cables are properly connected. Consider adjusting the display settings.
+I find it hard to access a file shared with me earlier during the day.,shared_folder_access,Check your access permissions and reach out to IT if the issue continues.
+I have delays in the processing of tickets; what can I do?,ticketing_system_guide,"If there are delays, check the ticket status and priority. If necessary, escalate the ticket or contact support for further assistance."
+Can you provide an update on my assistance ticket?,ticket_status,I’ll provide an update on your helpdesk ticket.
+I need to unlock my account but I don't see any option to do it. What should I do?,unlock_account,Contact support for assistance if you cannot find the unlocking option.
+Can you tell me if my ticket is still active?,ticket_status,I’ll check if your ticket is still active.
+Why does my network connection continue synchronization?,network_support,Check your router settings and connection quality. Contact your ISP if the issue continues despite troubleshooting.
+Please guide me on the passage of the telugu language.,change_language_settings,"To switch the language to Telugu, go to 'Settings', find 'Language', and select Telugu."
+Please change the language of the Arabic interface for me.,change_language_settings,"To change the interface language to Arabic, go to 'Settings', choose 'Language', and select Arabic."
+I forgot my security question answers and I need to reset.,reset_security_questions,Use the account recovery options or get in touch with support to reset your security questions.
+The wireless keyboard does not respond and shows no sign of power.,hardware_issue,Check if the batteries are charged and properly inserted. Try reconnecting the keyboard or using it with another device.
+Has my ticket put forward in the queue?,ticket_status,I’ll check if your ticket has progressed in the queue.
+I received a suspect email asking me to click on a link and check my account.,report_phishing,Do not click the link. Report this email to IT support.
+Help the installation of the latest version of our messaging client.,software_install,Download the installer from the email client’s official site and follow the on-screen instructions.
+I need help with the ticket system; Can you guide me?,ticketing_system_guide,You can find the user manual for the ticketing system on the company intranet. It provides step-by-step instructions for creating and managing tickets.
+I need help to access a shared file that has just been created.,shared_folder_access,Follow the setup instructions from IT or check your permissions.
+The side panel of my computer case will not close properly.,hardware_issue,Ensure there are no obstructions inside the case and check if the side panel is aligned correctly.
+Please guide me about the change in the language in Vietnamese.,change_language_settings,"To change the language to Vietnamese, go to 'Settings', choose 'Language', and select Vietnamese."
+My password reset email is missing. What should I do?,reset_password,Ensure the request was successful and check your spam folder. Request a new one if needed.
+How can I make sure that my signature by e-mail appears on the answers and the advantages?,email_signature_setup,Configure your email settings to include the signature in replies and forwards. Look for the option to include the signature in all email types.
+Can you guide me throughout the Microsoft Office configuration process?,software_install,Ensure you have the Office installer and a valid license key before starting.
+Can you provide a new set of external hard drives for our backup needs?,new_hardware_request,Submit a request specifying the number and capacity of external hard drives required.
+"I can connect to the internet, but the speed is much lower than expected.",internet_issue,Run a speed test and contact your ISP if the speed is consistently lower than your plan.
+My software update failed. What are the next steps?,software_updates,"Try restarting your computer and the update process. If the issue persists, consult the software’s support team."
+I need help to access a file that has been shared with me today.,shared_folder_access,Ensure you have the correct permissions and consult IT if needed.
+I want to update all my installed software. What is the best way to do this?,software_updates,You can use a software management tool to update all installed programs at once.
+Please update Kannada's linguistic settings.,change_language_settings,"To update the language settings to Kannada, go to 'Settings', find 'Language', and select Kannada."
+My computer drags its feet; it's so slow. What should I do first?,slow_computer,Restart your computer and check if there are any unnecessary programs running that could be affecting speed.
+I need help to set up a VPN connection to my laptop.,vpn_setup,Please provide details on the type of VPN and operating system.
+Having problems with the configuration of the network printer. It does not detect the printer.,network_support,Ensure the printer is properly connected to the network and check if the correct drivers are installed on your device.
+I need the latest software update urgently. How can I get it quickly?,software_updates,Access the update section immediately and select 'Install Now' to apply the latest update as quickly as possible.
+My computer is slow and slow. How can I solve this problem?,slow_computer,Run a full system scan for malware and optimize your hard drive to improve overall speed and responsiveness.
+An unsolicited email asking for my identification information resembles a phishing attempt.,report_phishing,Avoid interacting with the email. Report it to IT support.
+I need help to install new collaboration software.,software_install,Ensure you have the correct installation file and follow the setup instructions provided.
+How can I make changes to a ticket I have already submitted?,ticketing_system_guide,"To make changes, locate the ticket in 'My Tickets', click 'Edit', modify the necessary details, and save the changes."
+"Internet is frequently disconnected and I see a warning of ""limited connection"".",internet_issue,Check your router settings and restart your device.
+I need help to unlock my account after a security alert. What are the steps?,unlock_account,Check your email for security instructions or contact support for assistance in unlocking your account.
+How to add a legal warning to my email signature?,email_signature_setup,Add a legal disclaimer by including it in the email signature settings. Make sure the disclaimer is clear and fits the format of your signature.
+I see a message that my account is locked. What actions should I take?,unlock_account,Follow the instructions in the message or contact our support team for help with unlocking your account.
+I need to change my username due to a recent change in legal name.,change_username,"For a legal name change, provide the new username and relevant documentation through our support team."
+Can I reduce a software update if it causes problems?,software_updates,Check if the software offers a rollback feature or consult support for assistance with reverting to a previous version.
+Can you help install new CAD software on my computer?,software_install,Make sure you have the correct installation files and follow the provided setup instructions.
+Can you guide me by installing the latest version of our web browser?,software_install,Download the latest version from the official website and follow the installation prompts.
+How to configure automatic answers for new tickets?,ticketing_system_guide,"In 'Settings', go to 'Automatic Replies', and configure the templates and triggers for auto-responses to new tickets."
+My external player is not recognized after a recent Windows update,external_drive_issue,Check for driver updates or roll back the update to see if that resolves the issue.
+"Why does my network printer display ""offline"" despite its connection?",network_support,Check the printer’s network connection and ensure it is set to 'Online' mode. Restart the printer if needed.
+I want to change my security questions but I don't remember the answers.,reset_security_questions,Use the account recovery options or contact customer support for help with resetting your security questions.
+The external reader makes unusual noises when trendy,external_drive_issue,This may indicate physical damage. Backup any recoverable data immediately and consider replacing the drive.
+We need additional webcams for our conference rooms. How to proceed?,new_hardware_request,Submit a request for the webcams with specifications for each conference room.
+My password reset link expired. I get a new one?,reset_password,A new reset link has been sent to your email. Please follow the steps promptly.
+Can you help me modify the language settings in Bengali?,change_language_settings,"To change the language settings to Bengali, go to 'Settings', find 'Language', and choose Bengali."
+Please repair my access to the shared folder; I need it for an urgent task.,shared_folder_access,Submit a priority access request to IT.
+How can I make sure that my signature by e-mail is suitable for mobiles?,email_signature_setup,Design your email signature to be mobile-friendly by using simple formatting and avoiding large images. Test it on different devices to ensure it displays well.
+I received a suspect email requesting my account identification information via a link.,report_phishing,Do not click the link. Report the email to IT support.
+Access to the shared file has been dismissed. How to restore it?,shared_folder_access,Contact IT to restore your access permissions.
+How can I configure reminders for follow-up on open tickets?,ticketing_system_guide,Set up reminders in 'Settings' > 'Notifications' to receive alerts for follow-ups based on ticket status or due dates.
+Help me set up a professional signature for my work emails.,email_signature_setup,"To set up a professional signature, access your email signature settings and format your signature to include your name, position, and contact details."
+Our office needs a new set of ergonomic chairs. Can you help yourself?,new_hardware_request,File a hardware request form specifying the chair type and quantity.
+Can you update me on the condition of my computer ticket?,ticket_status,I’ll get an update on the status of your IT ticket.
+Can you help me change my username?,change_username,"To change your username, please provide your new desired username and confirm your current credentials."
+The VPN configuration fails; what should I check?,vpn_setup,"Check for any network restrictions, ensure your credentials are correct, and consult the setup guide."
+The partition of the external reader is not recognized and appears as an unrelated space,external_drive_issue,You may need to create a new partition or recover data using specialized software.
+Was there a development on my support ticket?,ticket_status,I’ll find out if there have been any developments on your support ticket.
+How to update my software if I have a limited internet bandwidth?,software_updates,Try updating during off-peak hours to reduce the impact on your bandwidth or download updates in smaller parts if possible.
+"The language of my device should be changed in Japanese. Please, please?",change_language_settings,"To change the language to Japanese, access 'Settings', select 'Language', and choose Japanese."
+I need to reset my security questions but I cannot connect.,reset_security_questions,Reach out to support to verify your identity and assist with resetting your security questions.
+How to navigate the dashboard of the ticket system?,ticketing_system_guide,"The dashboard provides an overview of your tickets. Use the navigation bar to access 'New Tickets', 'My Tickets', and 'Resolved Tickets' sections."
+How can I get my account if it is locked for security reasons?,unlock_account,Follow the instructions in the security email or contact support for help with unlocking your account.
+The external reader is not accessible after a sudden power failure,external_drive_issue,Run a disk check and ensure the drive is properly connected.
+I cannot connect to my account because my password does not work.,reset_password,Request a password reset from the login page. Check your email for the reset link.
+"Windows does not recognize my external player, but it works on another computer",external_drive_issue,Check if the drive needs a driver update or try connecting it to a different port.
+How to define the interface language on Gujarati?,change_language_settings,"To set the interface language to Gujarati, go to 'Settings', select 'Language', and choose Gujarati."
+Unable to connect to the Internet using an Ethernet cable. Wi-Fi works well.,internet_issue,Check if the Ethernet cable is properly connected and try a different port.
+My computer needs a software update. What steps should I follow?,software_updates,"Open the control panel, find the 'Updates' section, and follow the instructions to update your software."
+"Please help update my username to ""New_user"".",change_username,We are processing your request to update your username to 'new_user'. Confirmation will be sent to you soon.
+How to add a confidentiality declaration to my signature by e-mail?,email_signature_setup,Include a confidentiality statement by entering it into the email signature settings. Ensure it is clearly visible and formatted appropriately.
+How can I unlock my account if I was locked due to a security violation?,unlock_account,Verify your identity using the provided instructions or contact our support team for help with unlocking your account.
+I would like to change my username due to a recent update.,change_username,"To modify your username, submit the new username and update details through the support portal."
+I can't connect because my account is locked. Can you help me with that?,unlock_account,Please use the account recovery option or get in touch with our support team for unlocking assistance.
+Please organize a new laptop home station for my work configuration.,new_hardware_request,Submit a request detailing the type of docking station required.
+The external reader does not appear in the BIOS,external_drive_issue,Check if the drive is properly connected internally or test it on another system.
+How can I make sure that my ticket is classified correctly?,ticketing_system_guide,"When creating a ticket, select the appropriate category from the dropdown menu to ensure it is routed to the correct support team."
+I have problems resetting my security questions. Can you help?,reset_security_questions,Contact customer support to guide you through the process of resetting your security questions.
+I wish to configure a rotating signature with different promotional messages.,email_signature_setup,Use email signature management tools to set up a rotating signature with different promotional messages. Configure the tool to switch messages periodically.
+Please reset my security questions.,reset_security_questions,Submit a request through your account settings or contact customer support for assistance.
+I can't connect because my account is locked. I reset my password to unlock it?,unlock_account,"Yes, use the 'Forgot Password' feature to reset your password and unlock your account."
+"How to resolve ""no network access"" on a new device?",network_support,Ensure the device is properly configured to connect to the network and that it has the correct network credentials.
+"I need a new workstation, including a processor, a monitor and accessories. How to ask for this?",new_hardware_request,Request the complete workstation setup through the IT hardware requisition system.
+I don't remember my password and I have to reset it.,reset_password,A reset link has been sent to your email. Use it to reset your password.
+We need a new set of USB hubs for our workstations. Can you help?,new_hardware_request,Submit a request specifying the number and type of USB hubs required.
+"Whenever I try to connect to the Internet, I get a ""network error"" message.",internet_issue,Check your network settings and restart your modem and router.
+What is the status of my recent computer ticket?,ticket_status,I’ll check the status of your recent IT ticket.
+I need help installing new backup software.,software_install,"Ensure you have the installation media and license key, and follow the installation instructions provided."
+I received a message saying that I have won a price and that I asked for personal information.,report_phishing,Do not provide any information. Report the message to the helpdesk immediately.
+Can you help me help out a failed software update?,software_updates,"Ensure a stable internet connection and sufficient disk space, and consult the software’s support resources for specific troubleshooting steps."
+Was there any progress on my ticket?,ticket_status,I’ll find out if there has been any progress on your ticket.
+I need to change my username due to a recent update of business policy.,change_username,"For policy-related username changes, submit a request with the new username through the support portal."
+I need to change my username due to confidentiality problems.,change_username,"To modify your username, provide a new username and any relevant details through our support portal."
+Home to the VPN configuration to access internal applications.,vpn_setup,Ensure you have the correct configuration file and follow the instructions for accessing internal applications.
+My internet is broken.,internet_issue,Please check your modem and router connections. You may need to restart them.
+My account is locked because I grabbed the bad password too many times. I reset it?,reset_password,A reset link has been sent to your email. Use it to unlock your account.
+An e-mail urgently asking for my sensitive information seems suspicious.,report_phishing,Report the email and do not engage with it.
+How to reset security questions if I am unable to connect?,reset_security_questions,Contact customer support to verify your identity and assist with resetting your security questions.
+Please update the linguistic settings of the Lithuanian.,change_language_settings,"To update the language settings to Lithuanian, go to 'Settings', find 'Language', and pick Lithuanian."
+The external reader continues to disconnect and reconnect at random,external_drive_issue,This could be due to a faulty cable or port. Try using a different cable or port to see if the issue persists.
+I need to install a software update but it does not appear.,software_install,Check for available updates in the software’s settings or download the update from the official site.
+How can I define the language on Swahili?,change_language_settings,"To set the language to Swahili, go to 'Settings', choose 'Language', and select Swahili."
+I find it difficult to sail in the interface of the ticket system; what should I do?,ticketing_system_guide,Consult the user guide for interface navigation tips or contact the support team for personalized assistance.
+I was locked up with my account due to an attempted connection suspect. How to find access?,unlock_account,Verify your identity through the provided link or contact our support team for assistance in regaining access.
+I need instructions to change the language parameters into Russian.,change_language_settings,"To change the language to Russian, open 'Settings', navigate to 'Language', and select Russian."
+How can I define my interface on German? The current language is not suitable.,change_language_settings,"To set the interface to German, go to 'Settings', choose 'Language', and select German."
+I can no longer access the server files.,access_issue,You might have lost permissions. Contact IT to regain access.
+I tried to connect several times and now my account is locked. What can I do?,unlock_account,You can either wait for the lockout period to expire or contact our support team to unlock your account.
+I need to access the shared file in the finance department.,shared_folder_access,Please contact the IT department to request access.
+Can I get a new set of network cables for upgrading the Office network?,new_hardware_request,Submit a request specifying the type and length of network cables needed.
+My account is locked and I can't find any recovery options. What can I do?,unlock_account,Contact our support team directly for help with unlocking your account.
+Unable to access shared files on the network.,network_support,Ensure that the network sharing settings are properly configured and that you have the correct permissions to access the folders.
+I need to update my username due to a recent name change.,change_username,"For a name change update, provide the new username and documentation if required through our support team."
+How to configure VPN for a new workplace?,vpn_setup,Update your VPN settings to reflect the new work location and follow the provided setup guide.
+My account was locked after too many unsuccessful attempts.,access_issue,Please reset your password to regain access.
+"Help me reset my security questions, please.",reset_security_questions,Access the security settings in your account profile or contact support for a reset.
+Can I reset my password without obtaining a reset link?,reset_password,A reset link is required. Please request it from the login page.
+Help the installation of the latest version of our CRM tool.,software_install,Download the installer from the official site and follow the setup instructions provided.
+I want to change the tongue into Chinese. It seems complicated.,change_language_settings,"To change the language to Chinese, navigate to 'Settings', select 'Language', and choose Chinese."
+Can you help install the latest version of Java?,software_install,Download the latest Java version from the official website and follow the installation instructions.
+How to solve access problems with the shared file?,shared_folder_access,Follow the troubleshooting guide provided by IT or consult them directly.
+My external reader does not get enough energy and continues to disconnect,external_drive_issue,Use a powered USB hub or ensure the drive's power requirements are met.
+A strange email requires my identification information and seems fraudulent.,report_phishing,Report the email to IT and avoid clicking any links.
+Can you help install the new software for financial management?,software_install,Download the installer from the official site and follow the installation guide for a successful setup.
+"I asked for a password reset, but the link does not work.",reset_password,Please request a new reset link and ensure it's used within the valid timeframe.
+The demand must be in Portuguese.tow can I define this?,change_language_settings,"To set the application language to Portuguese, open 'Settings', find 'Language', and choose Portuguese."
+Please check if my ticket has been resolved.,ticket_status,I’ll verify if your ticket has been resolved.
+I am struggling with the installation of a new software suite. What should I do?,software_install,Consult the installation guide and check for any compatibility issues or errors during installation.
+How can I improve network performance during online games?,network_support,Reduce other network usage and ensure your gaming device is directly connected to the router for optimal performance.
+Can you help me change my username in others?,change_username,"Yes, to change your username, submit the new username through the change request form or contact support."
+Why does my network connection fail when using a specific application?,network_support,Check if the application requires special network settings or ports and ensure your firewall is not blocking it.
+I need help to reset my security questions.,reset_security_questions,Provide your account details to customer support for a reset of your security questions.
+"I receive an error message saying ""refused access"" when I try to open files on my external player",external_drive_issue,Check the file permissions and ensure you have the proper access rights to the files.
+How to configure notifications for ticket updates?,ticketing_system_guide,"Go to 'Settings', find 'Notification Preferences', and configure your preferences for ticket updates and alerts."
+How to configure my signature by email?,email_signature_setup,"To set up your email signature, go to the email settings and find the signature section. Enter your desired signature and save the changes."
+Need to help configure network settings for a new office location.,network_support,Contact IT support for assistance with network setup and configuration for your new office.
+I need help for the VPN configuration on a new laptop.,vpn_setup,Install the VPN client from the company portal and follow the setup instructions provided.
+"The Wi-Fi signal is strong, but the Internet does not work. What could be the problem?",internet_issue,"Restart your router and check if the issue is resolved. If not, contact your ISP."
+Can you give me access to the shared file for the new project?,shared_folder_access,Submit an access request form through the company’s portal.
+"Help, I want to update my security questions but I don't know how.",reset_security_questions,Visit the security settings in your account profile to update your security questions.
+I need to update my username for better alignment with my department.,change_username,Update your username by submitting the new username and department details through our support team.
+Can you show me how to update my software manually?,software_updates,Download the latest update from the software's official site and follow the installation instructions provided.
+Have problems with the Wi-Fi range in a large office building.,network_support,Consider installing additional access points or range extenders to improve Wi-Fi coverage throughout the building.
+"My laptop connects to Wi-Fi but does not show ""internet access"".",network_support,Check your network settings and ensure that your router is connected to the internet. Restarting your router may help.
+How to update the Portuguese display language?,change_language_settings,"To update the display language to Portuguese, go to 'Settings', find 'Language', and select Portuguese."
+The VPN connection fails after the recent updates.,vpn_setup,Try reinstalling the VPN client or contact IT support for help with compatibility issues.
+My computer is extremely slow and I don't know why. Can you help?,slow_computer,Check for system updates and perform a disk cleanup to remove unnecessary files that might be causing slowness.
+Wi-Fi continues to disconnect every few minutes. How can I solve this problem?,internet_issue,Try updating your router's firmware or moving closer to the router.
+My computer's RAM seems to fail; this causes frequent accidents.,hardware_issue,Run a memory diagnostic test to check for RAM issues. Consider reseating or replacing the RAM modules.
+I ask for a new graphics card to support my design work. What is the process?,new_hardware_request,File a hardware request with details about the required graphics card.
+What are the common problems with which users face the ticketing system and their solutions?,ticketing_system_guide,"Common issues include login problems, ticket submission errors, and update failures. Solutions are provided in the troubleshooting section of the user guide."
+What is the best practice to document ticket resolutions?,ticketing_system_guide,"Document resolutions by providing clear, detailed notes on the solution within the ticket. Ensure all steps and outcomes are recorded before closing the ticket."
+I recently forgotten my answers as a security question. What should I do?,reset_security_questions,Please request a security question reset through the account recovery page or contact support.
+I want to update my username to better reflect my current role.,change_username,Submit a request with the new username reflecting your role through your account settings or support.
