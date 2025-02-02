@@ -4,7 +4,8 @@
 
 The objective of this project was to enhance a dataset of employee queries to improve the performance of a chatbot. 
 
-The original dataset found in [Huagging Face]("https://huggingface.co/datasets/nirmitsinghhh/raw_data_eng_helpdesk-llama2-1k")
+The original dataset found in [HuggingFace by nirmitsinghhh]("https://huggingface.co/datasets/nirmitsinghhh/raw_data_eng_helpdesk-llama2-1k")
+
 consisted of **1,022 rows** with three columns: `user_query`, `intent`, and `solution`.
 
 After evaluating multiple data augmentation techniques, the **GPT-4o Mini model** (**Rogue-Rose-103b-v0.2**, via OpenRouter API) was selected for its ability to generate high-quality and diverse queries. Additionally, the **Back Translation technique** was employed to further enrich the dataset.  
